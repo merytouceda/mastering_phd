@@ -4,13 +4,33 @@ Key resources to rock (soil) microbial ecology research.
 All you need to pass the comps in Environmental Science (with a focus on soil). 
 
 
-## Microbial Ecology
+## From Zero to Doctor
 
-### THE Books
+### Microbial Ecology (soil)
+
+#### THE Books
 
 [Community Ecology - McGill](https://www.amazon.com/Community-Ecology-Gary-G-Mittelbach/dp/019883585X)
 
 
-### THE Papers
+#### THE Papers
 
 [Mason-Jones 2021](https://www.nature.com/articles/s41396-021-01110-w): "Microbial storage and its implications for soil ecology". 
+
+
+
+### Statistics
+
+
+
+## COMPS oriented
+
+### Soil Science 
+
+### Environmental Physics
+
+### Microbiology
+
+### Information Science (minor)
+
+### BONUS: Ecology/History of the Sonoran Desert 
