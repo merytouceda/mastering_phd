@@ -19,6 +19,9 @@ All you need to pass the comps in Environmental Science (with a focus on soil).
 * [Fierer 2017](https://www.pnas.org/content/109/52/21390): "Cross-biome metagenomic analyses of soil microbial communities and their functional attributes"
 * [Neilson 2017](https://journals.asm.org/doi/10.1128/mSystems.00195-16): "Sigificant Impacts of Increasing Aridity on the Arid Soil Microbiome"
 * [Kushwaha 2020](https://journals.asm.org/doi/full/10.1128/AEM.02780-20): "Arid Ecosystem Vegetation Canopy-Gap Dichotomy: Influence on Soil Microbial Composition and Nutrient Cycling Functional Potential" **(Patch and Gap)**
+* [Wieczynski 2021](https://www.pnas.org/content/118/42/e2104863118): "Linking species traits and demography to explain complex temperature responses across levels of organization" **(Microbial functional traits for Climate Change)**
+* [Albert's scholar](https://scholar.google.es/citations?user=Te8nPm8AAAAJ&hl=es)
+* [Yongjian's scholar](https://scholar.google.com/citations?user=WC5MjbwAAAAJ&hl=en)
 
 
 ### Statistics
