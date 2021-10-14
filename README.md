@@ -39,3 +39,7 @@ All you need to pass the comps in Environmental Science (with a focus on soil).
 ### Information Science (minor)
 
 ### BONUS: Ecology/History of the Sonoran Desert 
+
+#### Books: 
+
+* Killing the Hidden Waters (Charles Bowden): https://utpress.utexas.edu/books/bowkil
