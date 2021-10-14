@@ -26,20 +26,36 @@ All you need to pass the comps in Environmental Science (with a focus on soil).
 
 ### Statistics
 
+* Black Swan: The Impact of the Highly Improbable (Nassim Nicholas Taleb) (I have printed version)
 
 
 ## COMPS oriented
 
+
+
 ### Soil Science 
+
+
 
 ### Environmental Physics
 
+
+
 ### Microbiology
 
+* Processes in microbiology
+
+
+
 ### Information Science (minor)
+#### Books
+
+* SCALE (Jeoffrey West) (I have printed version)
+
 
 ### BONUS: Ecology/History of the Sonoran Desert 
 
 #### Books: 
 
 * Killing the Hidden Waters (Charles Bowden): https://utpress.utexas.edu/books/bowkil
+* Dirt: The Erosion of Civilizations (David R. Montgomery) (I have printed version)
