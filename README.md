@@ -61,3 +61,8 @@ All you need to pass the comps in Environmental Science (with a focus on soil).
 
 * Killing the Hidden Waters (Charles Bowden): https://utpress.utexas.edu/books/bowkil
 * Dirt: The Erosion of Civilizations (David R. Montgomery) (I have printed version)
+
+
+### BONUS2: Ways of Science
+
+* [Creativity for science students](https://www.sciencedirect.com/science/article/pii/S0169534720301646#bb0010)
