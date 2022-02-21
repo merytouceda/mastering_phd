@@ -36,7 +36,7 @@ All you need to pass the comps in Environmental Science (with a focus on soil).
 ### Soil Science 
 
 * USDA Soil Classification: https://passel2.unl.edu/view/lesson/2eafec8dd762/2
-
+* Soil Health review 2020: https://www.nature.com/articles/s43017-020-0080-8
 
 
 ### Environmental Physics
