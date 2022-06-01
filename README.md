@@ -11,6 +11,7 @@ All you need to pass the comps in Environmental Science (with a focus on soil).
 #### THE Books
 
 [Community Ecology - McGill](https://www.amazon.com/Community-Ecology-Gary-G-Mittelbach/dp/019883585X)
+[Writing and Publishing Scientific Papers. A Primer for the Non-English Speaker](https://books.openbookpublishers.com/10.11647/obp.0235.pdf)
 
 
 #### THE Papers
