@@ -29,6 +29,12 @@ All you need to pass the comps in Environmental Science (with a focus on soil).
 
 * Black Swan: The Impact of the Highly Improbable (Nassim Nicholas Taleb) (I have printed version)
 
+### Teaching amplicon resources
+- Dada2: https://benjjneb.github.io/dada2/tutorial.html
+- Phyloseq: https://www.nicholas-ollberding.com/post/introduction-to-phyloseq/
+- Microviz (all together): This github has a bunch of examples, exercises, and an R shiny app to make it interactive
+    https://github.com/david-barnett/microViz
+    https://david-barnett.github.io/microViz/articles/web-only/phyloseq.html
 
 ## COMPS oriented
 
